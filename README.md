@@ -1,4 +1,4 @@
-# Data-Structure projecu using C++
+# Data-Structure project using C++
 
 
 Arrays
